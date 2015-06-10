@@ -1,0 +1,13 @@
+{
+    "name": "toontilley/bootstrap-lightbox",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mark Tilley"
+        }
+    ],
+    "require": {
+        "components/jquery": "2.1.4"
+    }
+    
+}
